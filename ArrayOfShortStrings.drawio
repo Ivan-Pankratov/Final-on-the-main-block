@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Zx3KjsqbTjKIZPqImfTj" name="Страница 1">
-        <mxGraphModel dx="746" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="555" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -22,32 +22,31 @@
                 <mxCell id="7" value="инициализация массива строк по длине пользователя" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="130" y="240" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9" target="11">
+                <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="9" target="13">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="Ввод элементов массива пользователя" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="130" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11" target="13">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" value="пересчёт количества строк в массиве длина которых &amp;lt;=3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="130" y="410" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="13" target="15">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="создание массива строк, длина которых &amp;lt;=3 и заполнение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="130" y="500" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="130" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="15" target="16">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="Вывод массива пользователя и нового массива" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-                    <mxGeometry x="130" y="585" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="130" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="Конец" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-                    <mxGeometry x="150" y="670" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="150" y="585" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;a style=&quot;color: rgb(37, 133, 238); box-sizing: border-box; background-color: rgb(255, 255, 255); cursor: pointer; overflow-wrap: break-word; font-size: 15px;&quot; target=&quot;_blank&quot; href=&quot;https://gb.ru/lessons/326889/homework&quot;&gt;&lt;/a&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;em style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;Примеры&lt;/em&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;[“1234”, “1567”, “-2”, “computer science”] → [“-2”]&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;[“Russia”, “Denmark”, “Kazan”] → []&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="280" y="50" width="440" height="340" as="geometry"/>
