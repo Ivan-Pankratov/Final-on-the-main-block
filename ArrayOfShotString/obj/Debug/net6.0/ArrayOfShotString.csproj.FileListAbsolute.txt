@@ -1,0 +1,15 @@
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\bin\Debug\net6.0\ArrayOfShotString.exe
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\bin\Debug\net6.0\ArrayOfShotString.deps.json
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\bin\Debug\net6.0\ArrayOfShotString.runtimeconfig.json
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\bin\Debug\net6.0\ArrayOfShotString.dll
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\bin\Debug\net6.0\ArrayOfShotString.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.csproj.AssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.dll
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\refint\ArrayOfShotString.dll
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ArrayOfShotString.genruntimeconfig.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Папино обучение\Основной блок 1 четверть\Итоговая работа по основному блоку (1 четверть)\ArrayOfShotString\obj\Debug\net6.0\ref\ArrayOfShotString.dll
